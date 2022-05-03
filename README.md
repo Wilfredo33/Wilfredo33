@@ -3,10 +3,12 @@
 <!--
 **Wilfredo33/Wilfredo33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - I’m currently learning all about programming, it includes software engineering
+- currently looking for a job 💪
 
 ### Skills
 
-[![java Badge](https://img.shields.io/badge/-java-red?style=for-the-badge&labelColor=white&logo=java&logoColor=red)](#) [![python Badge](https://img.shields.io/badge/-python-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=python&logoColor=376CB9)](#) [![.net Badge](https://img.shields.io/badge/-.net-512BD4?style=for-the-badge&labelColor=512BD4&logo=.net&logoColor=white)](#) 
+[![java Badge](https://img.shields.io/badge/-java-red?style=for-the-badge&labelColor=white&logo=java&logoColor=red)](#) [![python Badge](https://img.shields.io/badge/-python-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=python&logoColor=376CB9)](#) 
+[![.net Badge](https://img.shields.io/badge/-.net-512BD4?style=for-the-badge&labelColor=512BD4&logo=.net&logoColor=white)](#) 
 [![html Badge](https://img.shields.io/badge/-html-EF590F?style=for-the-badge&labelColor=white&logo=html5&logoColor=EF590F)](#) 
 [![css Badge](https://img.shields.io/badge/-css-0F6EEF?style=for-the-badge&labelColor=white&logo=css3&logoColor=0F6EEF)](#)
 [![sql Badge](https://img.shields.io/badge/-sql-5B97E8?style=for-the-badge&labelColor=white&logo=sql&logoColor=0F6EEF)](#)
@@ -15,4 +17,4 @@
   
 :mailbox: Reach me here!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Wilfredo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilfredo-rivera-rojas/) [![Mail Badge](https://img.shields.io/badge/-Wilfredo-6001D2?style=flat&labelColor=6001D2&logo=yahoo&logoColor=white)](mailto:wilfredorivera2730@yahoo.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-Wilfredo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilfredo-rivera-rojas/) [![Mail Badge](https://img.shields.io/badge/-Mail-6001D2?style=flat&labelColor=6001D2&logo=yahoo&logoColor=white)](mailto:wilfredorivera2730@yahoo.com)
