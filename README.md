@@ -6,7 +6,7 @@
 
 Skills
 
-https://img.shields.io/static/v1?label=<LABEL1>&message=<c#.NET>&color=<YELLOWGREEN>
+?style=plastic&logo=appveyor
   
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: wilfredorivera2730@yahoo.com
