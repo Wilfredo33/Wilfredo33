@@ -6,7 +6,9 @@
 
 Skills
 
-?style=plastic&logo=appveyor
+<img scr="https://simpleicons.org/icons/dotnet.svg">
   
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: wilfredorivera2730@yahoo.com
+- 📫 How to reach me: 
+- [![Linkedin Badge](https://img.shields.io/badge/-Wilfredo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilfredo-rivera-rojas/) 
+- wilfredorivera2730@yahoo.com
