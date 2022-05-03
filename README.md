@@ -1,14 +1,17 @@
-### Hi there 😏👍
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <!--
 **Wilfredo33/Wilfredo33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - I’m currently learning all about programming, it includes software engineering
 
-Skills
+### Skills
+
+[![java Badge](https://img.shields.io/badge/-java-red?style=for-the-badge&labelColor=white&logo=java&logoColor=red)](#) [![python Badge](https://img.shields.io/badge/-python-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=python&logoColor=376CB9)](#) [![.net Badge](https://img.shields.io/badge/-.net-512BD4?style=for-the-badge&labelColor=512BD4&logo=.net&logoColor=white)](#) 
+[![html Badge](https://img.shields.io/badge/-html-512BD4?style=for-the-badge&labelColor=512BD4&logo=html&logoColor=white)](#) 
+[![css Badge](https://img.shields.io/badge/-css-512BD4?style=for-the-badge&labelColor=512BD4&logo=css&logoColor=white)](#) 
 
 <img scr="https://simpleicons.org/icons/dotnet.svg">
   
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: 
-- [![Linkedin Badge](https://img.shields.io/badge/-Wilfredo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilfredo-rivera-rojas/) 
-- wilfredorivera2730@yahoo.com
+:mailbox: Reach me here!
+
+ [![Linkedin Badge](https://img.shields.io/badge/-Wilfredo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilfredo-rivera-rojas/) [![Mail Badge](https://img.shields.io/badge/-Wilfredo-6001D2?style=flat&labelColor=6001D2&logo=yahoo&logoColor=white)](mailto:wilfredorivera2730@yahoo.com)
