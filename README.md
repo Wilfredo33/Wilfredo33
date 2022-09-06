@@ -3,7 +3,7 @@
 <!--
 **Wilfredo33/Wilfredo33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - I’m a student currently learning about programming
-- currently looking for a job 💪
+- Actively looking for a job 💪
 
 ### Skills
 
